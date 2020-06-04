@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "387401689204",
+    "firebase_url": "https://fir-auth-42811.firebaseio.com",
+    "project_id": "fir-auth-42811",
+    "storage_bucket": "fir-auth-42811.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387401689204:android:a3dfe00041a9de2918c921",
+        "android_client_info": {
+          "package_name": "br.edu.uni.ddm.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387401689204-nj3v269g55dt1ma5iu8u39n5lcj1q7ks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUEq8jZo_JgTl2H3MjpPQleYMTddYfPsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387401689204-nj3v269g55dt1ma5iu8u39n5lcj1q7ks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
